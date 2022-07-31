@@ -1,0 +1,33 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+  text-align: center;
+}
+
+p{
+  font-size:15px;
+  line-height:1;
+  padding-bottom:13px;
+  width:80%;
+  margin: auto;
+}
+
+h3{
+  width:88%;
+  margin: 20px auto 10px;
+  font-family: sans-serif;
+}
+
+.small_box{
+  background-color: hsl(0, 0%, 100%);
+
+  width:21%;
+  margin: 100px auto;
+
+  border-radius:5%;
+}
+
+.qrCodeImg{
+  padding-top:13px;
+  width: 90%;
+}
